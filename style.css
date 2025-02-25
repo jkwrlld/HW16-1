@@ -1,7 +1,7 @@
 .bg-box {
     background-color: green;
-    width: 600px;
-    height: 380px;
+    width: 590px;
+    height: 370px;
   }
 .bg-box{
     background-image: url("​https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg"),
@@ -9,7 +9,7 @@
     url("​https://www.freeiconspng.com/uploads/lamp-png-0.png"),
     url("​https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/Ёжик.png/revision/latest?cb=20180209130328&path-prefix=ru"),
     url("https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png");
-  background-position: center, bottom, top, left, right;
-  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
-  background-size: 30rem, 10rem, 7rem, 5rem, 5rem;
+    background-position: center, bottom, top, left, right;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 30rem, 10rem, 7rem, 5rem, 5rem;
 }
